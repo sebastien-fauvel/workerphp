@@ -8,7 +8,6 @@
         "email": "kohki.makimoto@gmail.com"
     }],
     "require": {
-        "php": ">=5.4.0",
         "ext-pcntl": "*",
         "react/react": "0.4.*",
         "pimple/pimple": "3.*",
